@@ -1,2 +1,0 @@
-# Optional: only needed for real-money Polymarket execution.
-polymarket-client
